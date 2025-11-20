@@ -24,8 +24,8 @@ El sistema está enfocado en el seguimiento de la jornada laboral de los colabor
 - Configuración de estados y reglas asociadas.
 - Integración frontend (React) + backend (Django) + WebSockets.
 
-[Ver demo admin](imagenes_documentacion/demo_hrs.mp4)
-[Ver demo cliente](imagenes_documentacion/demo_hrs.mp4_cliente.mp4)
+[Ver demo admin](./imagenes_documentacion/demo_hrs.mp4.mp4)
+[Ver demo cliente](./imagenes_documentacion/demo_hrs.mp4_cliente.mp4)
 
 ### Capturas de pantalla
 
@@ -79,8 +79,8 @@ The system is focused on tracking employees’ working hours. In the following d
 - Configuration of statuses and associated rules.
 - Frontend (React) + backend (Django) + WebSockets integration.
 
-[View admin demo](imagenes_documentacion/demo_hrs.mp4)  
-[View client demo](imagenes_documentacion/demo_hrs.mp4_cliente.mp4)
+[View admin demo](./imagenes_documentacion/demo_hrs.mp4.mp4)
+[View client demo](./imagenes_documentacion/demo_hrs.mp4_cliente.mp4)
 
 ### Screenshots
 
