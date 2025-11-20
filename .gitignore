@@ -12,8 +12,7 @@ __pycache__/
 db.sqlite3
 
 # Archivos de configuración locales
-*.env
-.env.*
+
 *.local
 
 # Logs
