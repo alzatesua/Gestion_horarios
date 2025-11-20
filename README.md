@@ -35,7 +35,7 @@ El sistema está enfocado en el seguimiento de la jornada laboral de los colabor
 
 ## Diagrama EER
 
-![EER](imagenes_documentacion/EER%20database_HRS.png)
+![EER](./imagenes_documentacion/EER%20distritec_hrs.png)
 
 ## Estructura del proyecto (por apps)
 
@@ -90,7 +90,7 @@ The system is focused on tracking employees’ working hours. In the following d
 
 ## EER diagram
 
-![EER](imagenes_documentacion/EER%20database_HRS.png)
+![EER](./imagenes_documentacion/EER%20distritec_hrs.png)
 
 ## Project structure (by apps)
 
