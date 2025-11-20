@@ -1,0 +1,34 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de configuración locales
+*.env
+.env.*
+*.local
+
+# Logs
+*.log
+
+# Archivos estáticos generados
+staticfiles/
+static/
+
+# Node / frontend
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Archivos JSON sensibles
+datos.json
+workforce.json

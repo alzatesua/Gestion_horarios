@@ -1,0 +1,157 @@
+.
+├── README.md
+├── accounts
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-310.pyc
+│   │   ├── admin.cpython-310.pyc
+│   │   ├── apps.cpython-310.pyc
+│   │   ├── auth.cpython-310.pyc
+│   │   ├── models.cpython-310.pyc
+│   │   ├── protected.cpython-310.pyc
+│   │   ├── urls.cpython-310.pyc
+│   │   ├── utils.cpython-310.pyc
+│   │   └── views.cpython-310.pyc
+│   ├── admin.py
+│   ├── apps.py
+│   ├── auth.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   ├── models.py
+│   ├── protected.py
+│   ├── tests.py
+│   ├── urls.py
+│   ├── utils.py
+│   └── views.py
+├── core
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-310.pyc
+│   │   ├── asgi.cpython-310.pyc
+│   │   ├── dbrouters.cpython-310.pyc
+│   │   ├── middleware.cpython-310.pyc
+│   │   ├── settings.cpython-310.pyc
+│   │   ├── urls.cpython-310.pyc
+│   │   ├── views.cpython-310.pyc
+│   │   └── wsgi.cpython-310.pyc
+│   ├── asgi.py
+│   ├── dbrouters.py
+│   ├── middleware.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── views.py
+│   └── wsgi.py
+├── datos.json
+├── db.sqlite3
+├── debug_gunicorn.log
+├── estructura_proyecto.txt
+├── frontend
+│   ├── README.md
+│   ├── dist
+│   │   ├── assets
+│   │   ├── icono.ico
+│   │   ├── index.html
+│   │   └── vite.svg
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   │   ├── icono.ico
+│   │   └── vite.svg
+│   ├── requirements.txt
+│   ├── src
+│   │   ├── app
+│   │   ├── assets
+│   │   ├── auth
+│   │   ├── components
+│   │   ├── data
+│   │   ├── index.css
+│   │   ├── layout
+│   │   ├── lib
+│   │   ├── pages
+│   │   ├── styles
+│   │   └── utils
+│   ├── static
+│   ├── vite.config.js
+│   ├── vite.config.ts
+│   └── websocket-server
+│       ├── package-lock.json
+│       └── package.json
+├── gunicorn-out.log
+├── manage.py
+├── package-lock.json
+├── realtime
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-310.pyc
+│   │   ├── admin.cpython-310.pyc
+│   │   ├── apps.cpython-310.pyc
+│   │   ├── consumers.cpython-310.pyc
+│   │   └── models.cpython-310.pyc
+│   ├── admin.py
+│   ├── apps.py
+│   ├── consumers.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   ├── models.py
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.js
+│   ├── server.log
+│   ├── tests.py
+│   └── views.py
+├── requirements.txt
+├── server.log
+├── static
+│   └── frontend
+│       ├── assets
+│       ├── index.html
+│       └── vite.svg
+├── templates
+│   └── index.html
+├── udp_server.py
+├── workforce
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-310.pyc
+│   │   ├── admin.cpython-310.pyc
+│   │   ├── apps.cpython-310.pyc
+│   │   ├── models.cpython-310.pyc
+│   │   ├── serializers.cpython-310.pyc
+│   │   ├── services.cpython-310.pyc
+│   │   ├── urls.cpython-310.pyc
+│   │   ├── utils.cpython-310.pyc
+│   │   ├── views.cpython-310.pyc
+│   │   └── views_estados.cpython-310.pyc
+│   ├── admin.py
+│   ├── apps.py
+│   ├── consumers.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── 0002_alter_asignacionhorario_options_and_more.py
+│   │   ├── 0003_solicitud_asesor_id_solicitud_id_sede.py
+│   │   ├── 0004_rename_asesor_id_solicitud_id_asesor.py
+│   │   ├── 0005_asesor_estadotipo_estadoconfigasesor_jornadaestado.py
+│   │   ├── 0006_alter_estadotipo_slug.py
+│   │   ├── 0007_remove_jornadaestado_workforce_j_asesor__4ff063_idx_and_more.py
+│   │   ├── 0008_alter_estadoconfigasesor_color_hex_override_and_more.py
+│   │   ├── 0009_remove_estadoconfigasesor_limite_minutos.py
+│   │   ├── 0010_jornadalaboral.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   ├── models.py
+│   ├── routing.py
+│   ├── serializers.py
+│   ├── services.py
+│   ├── tests.py
+│   ├── urls.py
+│   ├── utils.py
+│   ├── views.py
+│   └── views_estados.py
+└── workforce.json
+
+35 directories, 119 files
