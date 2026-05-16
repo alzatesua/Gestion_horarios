@@ -11,6 +11,12 @@ Desarrollado con Django y React, el sistema integra módulos para la administrac
 - WebSockets
 - SQL
 
+## 💖 Support
+
+If you enjoy this project, consider supporting my work:
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-💖_Sponsor-ff69b4)](https://github.com/sponsors/alzatesua)
+
 ## Diagrama de flujo
 
 [Ver diagrama de flujo](imagenes_documentacion/diagrama.pdf)
