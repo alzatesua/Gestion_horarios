@@ -1,6 +1,6 @@
 # database_HRS
 
-database_HRS es una aplicación web de gestión de recursos humanos diseñada para centralizar la información del personal y automatizar procesos internos de Distritec.  
+database_HRS es una aplicación web de gestión de recursos humanos diseñada para centralizar la información del personal y automatizar procesos internos.  
 Desarrollado con Django y React, el sistema integra módulos para la administración de empleados, control de asistencia y turnos, registro de actividades y comunicación interna, ofreciendo una interfaz accesible desde el navegador y funcionalidades en tiempo real.
 
 ## Tecnologías
